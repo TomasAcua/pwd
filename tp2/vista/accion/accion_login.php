@@ -3,7 +3,7 @@
 $usuarios = [
     ["usuario" => "admin", "clave" => "admin1234"],
     ["usuario" => "toto", "clave" => "toto1234"],
-    ["usuario" => "lucero", "clave" => "1lucero"]
+    ["usuario" => "lucero", "clave" => "12lucero"]
 ];
 
 // Obtener los datos enviados por el formulario
